@@ -1,0 +1,72 @@
+body {
+  background: #f7f8fa;
+}
+div.col {
+  border: 1px solid black;
+}
+
+#upper-header,
+#upper-header a {
+  color: white;
+}
+
+.button-uh {
+  background-color: white;
+  border-radius: 0;
+}
+
+.button-uh:hover {
+  background-color: white;
+  color: green;
+}
+
+#main-nav li > a:hover {
+  background: #316dc3;
+  color: white;
+  border-radius: 20px;
+}
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
+.dropdown-item:hover {
+  background-color: #316dc3;
+  color: white;
+}
+
+#h1-intro {
+  font-family: "Times New Roman", Times, serif;
+  color: #427900;
+  font-weight: 500;
+}
+#h1-intro > span {
+  color: #316dc3;
+}
+#info-section {
+  background: #2755e9;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+}
+#info-section span {
+  color: #01f908;
+}
+#info-section img {
+  height: 70px;
+}
+h3 {
+  color: #316dc3;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+  font-weight: 600;
+  font-stretch: expanded;
+}
+
+.div-mission {
+  border: 2px solid grey;
+  background: greenyellow;
+}
+
+#last-div {
+  background-color: #25272e;
+  padding-top: 20px;
+}
